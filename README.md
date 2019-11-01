@@ -3,4 +3,4 @@
 # Django admin + Chart.js
 
 An example repo outlining how to combine Django admin and Chart.js as described
-in https://findwork.dev/blog/integrating-chartjs-django-admin/.
+in https://findwork.dev/blog/adding-charts-to-django-admin/.
